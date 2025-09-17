@@ -34,4 +34,4 @@ A collection of scripts for penetration testing and offensive security operation
   - Standardized folder hierarchy
   - Script organization with naming convention
   - Custom folder creation
-<p><h1>This Script Only Educational Purposses.<br>If any person misused that , I'm not responsible for that.</h1>
+<p><h2>This Script Only Educational Purposses.<br>If any person misused that , I'm not responsible for that.</h2></p>
